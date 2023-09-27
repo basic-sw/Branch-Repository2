@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-더워요 ㅠㅠ
+집을 안 가고싶어요.
 
 // Merges two subarrays of arr[].
 // First subarray is arr[l..m]
